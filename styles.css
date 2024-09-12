@@ -1,3 +1,38 @@
 /* Add your custom styles here */
-/* For example, set the rust-colored color scheme and autumn theme */
+/* For example, set the maroon and burnt orange color scheme and autumn theme */
 /* Feel free to adjust fonts, margins, padding, etc. */
+
+/* Example styles (customize as needed) */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5E6CA; /* Maroon */
+    color: #8B4513; /* Burnt Orange */
+    text-align: center;
+}
+
+nav {
+    background-color: #8B4513; /* Burnt Orange */
+    padding: 10px;
+}
+
+nav a {
+    color: #FFF;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+}
