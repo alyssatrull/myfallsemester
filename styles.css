@@ -1,7 +1,7 @@
 /* Global Styles */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #FAF3E0; /* Soft, warm cream background */
+    background-color: #f4eacf; /* Soft, warm cream background */
     color: #5B2C1A; /* Deep brown text */
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ body {
 }
 
 nav {
-    background-color: #800000; /* Maroon for the navbar */
+    background-color: #6f220d; /* Maroon for the navbar */
     padding: 10px;
 }
 
