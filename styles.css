@@ -61,14 +61,17 @@ footer {
     nav a {
         font-size: 16px;
         margin: 0 10px;
+        background-color: #6f220d; /* Maroon for the navbar */
     }
     
     h1, h2 {
         font-size: 24px;
+        color: #a8541c; /* Burnt orange headings */
     }
     
     p {
         font-size: 14px;
+        color: #5B2C1A; /* Deep brown text */
     }
     
     .placeholder {
